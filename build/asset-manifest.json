@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nadiamariduena/react-searchfield-one.git/static/css/main.369415bf.chunk.css",
+    "main.js": "/nadiamariduena/react-searchfield-one.git/static/js/main.1bf7b85f.chunk.js",
+    "main.js.map": "/nadiamariduena/react-searchfield-one.git/static/js/main.1bf7b85f.chunk.js.map",
+    "runtime-main.js": "/nadiamariduena/react-searchfield-one.git/static/js/runtime-main.8e9f06b1.js",
+    "runtime-main.js.map": "/nadiamariduena/react-searchfield-one.git/static/js/runtime-main.8e9f06b1.js.map",
+    "static/js/2.aaed95fe.chunk.js": "/nadiamariduena/react-searchfield-one.git/static/js/2.aaed95fe.chunk.js",
+    "static/js/2.aaed95fe.chunk.js.map": "/nadiamariduena/react-searchfield-one.git/static/js/2.aaed95fe.chunk.js.map",
+    "index.html": "/nadiamariduena/react-searchfield-one.git/index.html",
+    "precache-manifest.aa329e90eebb52fc7d70fb5ef5c61438.js": "/nadiamariduena/react-searchfield-one.git/precache-manifest.aa329e90eebb52fc7d70fb5ef5c61438.js",
+    "service-worker.js": "/nadiamariduena/react-searchfield-one.git/service-worker.js",
+    "static/css/main.369415bf.chunk.css.map": "/nadiamariduena/react-searchfield-one.git/static/css/main.369415bf.chunk.css.map",
+    "static/js/2.aaed95fe.chunk.js.LICENSE.txt": "/nadiamariduena/react-searchfield-one.git/static/js/2.aaed95fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e9f06b1.js",
+    "static/js/2.aaed95fe.chunk.js",
+    "static/css/main.369415bf.chunk.css",
+    "static/js/main.1bf7b85f.chunk.js"
+  ]
+}
